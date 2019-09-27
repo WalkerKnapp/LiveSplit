@@ -388,9 +388,6 @@
   <AutoSplitter>
     <Games>
       <Game>Source Engine</Game>
-      <Game>Aperture Tag</Game>
-      <Game>Aperture Tag: The Paint Gun Testing Initiative</Game>
-      <Game>Aperture Tag (Portal 2 Mod)</Game>
       <Game>Black Mesa: Source</Game>
       <Game>Black Mesa</Game>
       <Game>Black Mesa (MOD Version)</Game>
@@ -414,8 +411,6 @@
       <Game>Portal Category Extensions</Game>
       <Game>Portal Mods</Game>
       <Game>Rexaura</Game>
-      <Game>Portal 2</Game>
-      <Game>Portal Stories: Mel</Game>
       <Game>Source Mods</Game>
     </Games>
     <URLs>
@@ -424,6 +419,22 @@
     <Type>Component</Type>
     <Description>Game Time and Auto Splitting are available. (By Fatalis)</Description>
     <Website>https://github.com/fatalis/sourcesplit/blob/master/README.md</Website>
+    <ShowInLayoutEditor />
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Portal 2</Game>
+      <Game>Aperture Tag</Game>
+      <Game>Aperture Tag: The Paint Gun Testing Initiative</Game>
+      <Game>Aperture Tag (Portal 2 Mod)</Game>
+      <Game>Portal Stories: Mel</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/NeKzor/SourceAutoRecord/livesplit/SAR.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Game Time and Auto Splitting are available. Requires SourceAutoRecord. (By Nekz)</Description>
+    <Website>https://github.com/NeKzor/SourceAutoRecord</Website>
     <ShowInLayoutEditor />
   </AutoSplitter>
   <AutoSplitter>
